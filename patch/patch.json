@@ -1,0 +1,8 @@
+{
+	"name": "bt-keyboard-layout-jp",
+	"description": "Addittional layout of bluetooth keyboard for Japanese",
+	"category": "text input",
+	"infos": {
+		"maintainer": "knokmki612"
+	}
+}

@@ -1,0 +1,13 @@
+--- original/usr/share/jolla-settings/pages/text_input/textinput.qml	2016-04-13 00:30:20.465894953 +0900
++++ patched/usr/share/jolla-settings/pages/text_input/textinput.qml	2016-04-13 00:51:59.389796580 +0900
+@@ -125,6 +125,10 @@
+             name: "Svenska"
+         }
++        ListElement {
++            layout: "jp"
++            name: "日本語"
++        }
+         ListElement {
+             layout: "tr"
+             name: "Türkçe"
+         }
