@@ -2,7 +2,7 @@ Name: bt-keyboard-layout-jp
 Version: 1.0.0
 Release: 2
 Summary: Addittional layout of bluetooth keyboard for Japanese
-License: LGPLv2
+License: MIT
 Source: %{name}-%{version}.tar.gz
 Buildarch: noarch
 Requires: patchmanager
