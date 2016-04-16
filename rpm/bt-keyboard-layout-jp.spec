@@ -1,10 +1,10 @@
 Name: bt-keyboard-layout-jp
-Version: 1.0.0
-Release: 2
 %{!?qtc_qmake:%define qtc_qmake %qmake}
 %{!?qtc_qmake5:%define qtc_qmake5 %qmake5}
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
+Version: 1.1.0
+Release: 1
 Summary: Addittional layout of bluetooth keyboard for Japanese
 URL: https://github.com/knokmki612/bt-keyboard-layout-jp
 License: MIT
